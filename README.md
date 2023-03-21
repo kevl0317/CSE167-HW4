@@ -16,7 +16,7 @@
 > We implemented bounding boxes for the acceleration stucture. We first created a cuboid that wraps all objects in the scene, then divide the cuboid into smaller cubes. We also calculated the wrapping cuboid for every triangle and sphere, then found where they are in the scene cuboid. When we have an incoming ray, we now only need to consider the traingles and spheres inside the cuboids intersected along the way, which can be calculated efficiently.
 
 # Results
-> After implementing this acceleration structure, we successfully sped up the rending time of `scene7.test` from `35 - 40 minutes` to only `3 minutes`.
+> After implementing this acceleration structure, we successfully sped up the rending time of `scene7.test` from `30 - 40 minutes` to only `3 minutes`.
 
 > Before Acceleration
 
