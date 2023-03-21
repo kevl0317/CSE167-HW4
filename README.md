@@ -34,4 +34,4 @@
 > All other test pictures are also in the repository
 
 
-Kevin Liu, Yuna Gao
+Kevin Liu, Yuan Gao
