@@ -29,3 +29,6 @@
 > They both produced the same image that passed the Image Grader on UCSD Online: https://raviucsdgroup.s3.amazonaws.com/hw3/0a43b32b5235327f8d7aad9caa68c049/20230321001311/index.html
 
 <img src="scene7.png">
+
+# Additional Comments
+> All other test pictures are also in the repository
